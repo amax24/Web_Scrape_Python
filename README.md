@@ -1,1 +1,1 @@
-# Web_Scrape_Python WIP - SCRAPE AND DF CREATION WORKS BUT COMMENTS, VARIABLES AND DOWNLOAD TO BE ADDED.
+#purpose of this script is to get contents from list on wikipedia page into csv file
